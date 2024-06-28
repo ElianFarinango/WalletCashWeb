@@ -1,0 +1,14 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Wallet Cash",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Elian Farinango-Brenda Jacome",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
